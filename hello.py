@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # // example from https://pypi.org/project/discord.py/ #
 import discord
 import asyncio
